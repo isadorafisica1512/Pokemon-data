@@ -1,0 +1,1 @@
+I developed an intelligent battle prediction system that forecasts Pokémon duel outcomes using machine learning. The core of this project is an XGBoost classifier trained on comprehensive battle data to determine which Pokémon would emerge victorious.
